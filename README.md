@@ -23,7 +23,7 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/fidhoredana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="fidhoredana" height="30" width="40" /></a>
+<a href="https://twitter.com/fidho_redana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="fidhoredana" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14440003" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14440003" height="30" width="40" /></a>
 <a href="https://fb.com/fidho.redana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="fidho.redana" height="30" width="40" /></a>
 <a href="https://instagram.com/fidhoredana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="fidhoredana" height="30" width="40" /></a>
