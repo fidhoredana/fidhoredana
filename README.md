@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on my Project [Among Us Indonesia](https://fdcorp.xyz/among-us-indonesia)
 
-- 🌱 I’m currently learning **Laravel, Cdeigniter**
+- 🌱 I’m currently learning **Laravel, Codeigniter**
 
 - 👨‍💻 All of my projects are available at [https://fdcorp.xyz](https://fdcorp.xyz)
 
